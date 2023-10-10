@@ -62,3 +62,10 @@ To understand the price changes of Product Number 5, the chart below reflects Av
 
 ### What Supplier is Offering the Best Price
 ![](Supplier_is_Offering_the_Best_Price.png)
+
+## Skills Demonstrated
+- Data analysis
+- Data visualisation
+- Data cleaning with Tableau Prep Builder etc
+
+Thank you for your time.🤝
